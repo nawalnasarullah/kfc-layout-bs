@@ -509,3 +509,16 @@ body {
     display: inline-block;
     font-weight: 600;
 }
+
+@media screen and (max-width: 991px) {
+  
+    .hero-section {
+      margin-top: 220px;
+    }
+   
+    .owl-carousel .owl-nav button.owl-next {
+      right: -10px;
+      top: -270px
+    }
+  
+}
