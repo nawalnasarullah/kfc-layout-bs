@@ -205,7 +205,6 @@ body {
     letter-spacing: 0.02857em;
     text-transform: uppercase;
     min-width: 64px;
-    width: 500px;
     padding: 6px 16px;
     border-radius: 4px;
     color: var(--white);
